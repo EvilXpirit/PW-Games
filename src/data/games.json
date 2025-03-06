@@ -7,15 +7,6 @@
     "link": "https://electric-field-adventure-game.vercel.app/"
   },
   {
-    "id": 4,
-    "title": "Crazy Cold Cruise",
-    "image": "/images/Crazy-Cold-Cruise.png",
-    "tag": "UPDATED",
-    "tagColor": "bg-green-500",
-    "link": "https://www.roblox.com/games/93788950340974/",
-    "type": "roblox"
-  },
-  {
     "id": 2,
     "title": "CropZilla",
     "image": "/images/Cropzilla.png",
@@ -26,8 +17,17 @@
   },
   {
     "id": 3,
+    "title": "Crazy Cold Cruise",
+    "image": "/images/Crazy-Cold-Cruise.png",
+    "tagColor": "bg-green-500",
+    "link": "https://www.roblox.com/games/93788950340974/",
+    "type": "roblox"
+  },
+  {
+    "id": 4,
     "title": "Light Up",
     "image": "/images/LightUp.png",
+    "tag": "UPDATED",
     "link": "https://www.roblox.com/games/93788950340974/",
     "type": "roblox"
   },
