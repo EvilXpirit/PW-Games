@@ -13,7 +13,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 flex items-center justify-between">
         <div className="flex items-center">
           <img src="./Physics-Wallah-Logo-White.png" className="w-auto h-8 sm:h-12 mr-2" alt="PW Logo" />
-          <h1 className="text-xl sm:text-2xl font-bold text-green-400">PW Games</h1>
+          <h1 className="text-xl sm:text-2xl font-bold text-white">PW Games</h1>
         </div>
         
         {/* Desktop Navigation */}
