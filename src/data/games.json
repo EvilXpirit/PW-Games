@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "title": "Electric Charge Adventure",
+    "tag": "NEW",
+    "image": "/images/Charge.png",
+    "link": "https://electric-field-adventure-game.vercel.app/"
+  },
+  {
+    "id": 4,
+    "title": "Crazy Cold Cruise",
+    "image": "/images/Crazy-Cold-Cruise.png",
+    "tag": "UPDATED",
+    "tagColor": "bg-green-500",
+    "link": "https://www.roblox.com/games/93788950340974/",
+    "type": "roblox"
+  },
+  {
+    "id": 2,
+    "title": "CropZilla",
+    "image": "/images/Cropzilla.png",
+    "tag": "NEW",
+    "tagColor": "bg-red-500",
+    "link": "https://www.roblox.com/games/93788950340974/",
+    "type": "roblox"
+  },
+  {
+    "id": 3,
+    "title": "Light Up",
+    "image": "/images/LightUp.png",
+    "link": "https://www.roblox.com/games/93788950340974/",
+    "type": "roblox"
+  },
+  {
+    "id": 4,
+    "title": "Crazy Cold Cruise",
+    "image": "/images/Crazy-Cold-Cruise.png",
+    "tag": "UPDATED",
+    "tagColor": "bg-green-500",
+    "link": "https://www.roblox.com/games/93788950340974/",
+    "type": "roblox"
+  },
+  {
+    "id": 5,
+    "title": "Arena Wars",
+    "image": "/images/Arena.png",
+    "link": "https://www.roblox.com/games/93788950340974/",
+    "type": "roblox"
+  },
+  {
+    "id": 6,
+    "title": "Guess Their Answer",
+    "image": "/images/guess-answer.jpg",
+    "link": "/games/guess-their-answer",
+    "type": "roblox"
+  },
+  {
+    "id": 7,
+    "title": "MiniBlox",
+    "image": "/images/miniblox.jpg",
+    "link": "/games/miniblox",
+    "type": "roblox"
+  },
+  {
+    "id": 8,
+    "title": "Word Puzzle",
+    "image": "/images/word-puzzle.jpg",
+    "link": "/games/word-puzzle",
+    "type": "roblox"
+  },
+  {
+    "id": 9,
+    "title": "Rally Dirt",
+    "image": "/images/rally-dirt.jpg",
+    "link": "/games/rally-dirt",
+    "type": "roblox"
+  }
+]
