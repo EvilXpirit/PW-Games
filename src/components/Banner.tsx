@@ -20,7 +20,7 @@ const Banner: React.FC = () => {
       {/* Background image for mobile */}
       <div className="absolute right-0 bottom-0 w-full h-full md:hidden opacity-10 z-0">
         <img
-          src="/Video-Game-Transparent-Images.png"
+            src="/alakhPandey.png"
           alt="Background"
           className="h-full w-full object-cover"
         />

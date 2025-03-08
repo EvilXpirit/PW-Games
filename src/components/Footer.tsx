@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
     <footer className="bg-gray-800 text-white pt-10 pb-6">
       <div className="container mx-auto px-4">
         {/* Main Footer Content */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-8">
           {/* Column 1: About */}
           <div>
             <h3 className="text-lg font-bold mb-4">About PW Games</h3>
@@ -65,7 +65,7 @@ const Footer: React.FC = () => {
           </div>
           
           {/* Column 4: Newsletter */}
-          <div>
+          {/* <div>
             <h3 className="text-lg font-bold mb-4">Stay Updated</h3>
             <p className="text-gray-300 text-sm mb-4">
               Subscribe to our newsletter for the latest game releases and updates.
@@ -84,7 +84,7 @@ const Footer: React.FC = () => {
                 Subscribe
               </button>
             </form>
-          </div>
+          </div> */}
         </div>
         
         {/* Divider */}
